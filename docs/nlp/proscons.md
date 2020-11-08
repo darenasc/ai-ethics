@@ -14,7 +14,7 @@
    </td>
   </tr>
   <tr>
-   <td>Debiaswe <a href="https://github.com/tolga-b/debiaswe">https://github.com/tolga-b/debiaswe</a>
+   <td><a href="https://github.com/tolga-b/debiaswe">Debiaswe</a>
    </td>
    <td>
 <ul>
@@ -40,7 +40,7 @@
    </td>
   </tr>
   <tr>
-   <td>Sent debias <a href="https://github.com/pliang279/sent_debias">https://github.com/pliang279/sent_debias</a>
+   <td> <a href="https://github.com/pliang279/sent_debias">Sent debias</a>
    </td>
    <td>
 <ul>
@@ -70,9 +70,7 @@
    </td>
   </tr>
   <tr>
-   <td>AllenNLP Interpret
-<p>
-<a href="https://allennlp.org/interpret">https://allennlp.org/interpret</a>
+   <td><a href="https://allennlp.org/interpret">AllenNLP Interpret</a>
    </td>
    <td>
 <ol>
@@ -100,7 +98,7 @@
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/TimeTraveller-San/RAN-Debias">https://github.com/TimeTraveller-San/RAN-Debias</a>
+   <td><a href="https://github.com/TimeTraveller-San/RAN-Debias">RAN Debias</a>
    </td>
    <td>
 <ol>
@@ -128,7 +126,7 @@
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/TManzini/DebiasMulticlassWordEmbedding">https://github.com/TManzini/DebiasMulticlassWordEmbedding</a>
+   <td><a href="https://github.com/TManzini/DebiasMulticlassWordEmbedding">Word Embedding</a>
    </td>
    <td>
 <ol>
@@ -156,49 +154,33 @@
    </td>
   </tr>
   <tr>
-   <td><a href="https://docs.seldon.io/projects/alibi/en/stable/overview/algorithms.html">https://docs.seldon.io/projects/alibi/en/stable/overview/algorithms.html</a>
+   <td><a href="https://docs.seldon.io/projects/alibi/en/stable/overview/algorithms.html">Seldon Alibi</a>
    </td>
-   <td>Explainer
-<p>
-<a href="https://docs.seldon.io/projects/alibi/en/stable/methods/Anchors.html">Anchors</a>
-<p>
-black-box
-<p>
-<a href="https://docs.seldon.io/projects/alibi/en/stable/methods/CEM.html">CEM</a>
-<p>
-black-box, TF/Keras
-<p>
-<a href="https://docs.seldon.io/projects/alibi/en/stable/methods/CF.html">Counterfactual Instances</a>
-<p>
-black-box, TF/Keras
-<p>
-<a href="https://docs.seldon.io/projects/alibi/en/stable/methods/KernelSHAP.html">Kernel SHAP</a>
-<p>
-black-box
-<p>
-<a href="https://docs.seldon.io/projects/alibi/en/stable/methods/CFProto.html">Prototype Counterfactuals</a>
-<p>
-black-box, TF/Keras
-<p>
-Classification
-<p>
-Categorical data
-<p>
-Tabular
-<p>
-Text
-<p>
-_media
-<p>
-Model confidentiality
+
+<ul>
+<li> Explainer
+<li> <a href="https://docs.seldon.io/projects/alibi/en/stable/methods/Anchors.html">Anchors</a>
+<li> black-box
+<li> <a href="https://docs.seldon.io/projects/alibi/en/stable/methods/CEM.html">CEM</a>
+<li>black-box, TF/Keras
+<li><a href="https://docs.seldon.io/projects/alibi/en/stable/methods/CF.html">Counterfactual Instances</a>
+<li><a href="https://docs.seldon.io/projects/alibi/en/stable/methods/KernelSHAP.html">Kernel SHAP</a>
+<li><a href="https://docs.seldon.io/projects/alibi/en/stable/methods/CFProto.html">Prototype Counterfactuals</a>
+<li>Classification
+<li>ategorical data
+<li>Tabular
+<li>Text
+<li>_media
+<li>Model confidentiality
+<li> <a href="https://docs.seldon.io/projects/alibi/en/stable/examples/linearity_measure_iris.html">Linearity Measure</a>
+
+</ul>
 <p>
 <a href="https://docs.seldon.io/projects/alibi/en/stable/methods/TrustScores.html">Trust Scores</a>
-<p>
+<p>black-box
+
 black-box
-<p>
-<a href="https://docs.seldon.io/projects/alibi/en/stable/examples/linearity_measure_iris.html">Linearity Measure</a>
-<p>
-black-box
+
    </td>
    <td>
    </td>
@@ -208,7 +190,7 @@ black-box
    </td>
   </tr>
   <tr>
-   <td><a href="https://rasahq.github.io/whatlies/">https://rasahq.github.io/whatlies/</a>
+   <td><a href="https://rasahq.github.io/whatlies/">What Lies</a>
    </td>
    <td>
    </td>
@@ -220,7 +202,7 @@ black-box
    </td>
   </tr>
   <tr>
-   <td><a href="https://docs.responsibly.ai/word-embedding-bias.html">https://docs.responsibly.ai/word-embedding-bias.html</a>
+   <td><a href="https://docs.responsibly.ai/word-embedding-bias.html">Word Embedding Bias</a>
    </td>
    <td>
 <ul>
@@ -246,7 +228,7 @@ black-box
    </td>
   </tr>
   <tr>
-   <td><a href="https://colab.research.google.com/github/pair-code/what-if-tool/blob/master/WIT_Toxicity_Text_Model_Comparison.ipynb">https://colab.research.google.com/github/pair-code/what-if-tool/blob/master/WIT_Toxicity_Text_Model_Comparison.ipynb</a>
+   <td><a href="https://colab.research.google.com/github/pair-code/what-if-tool/blob/master/WIT_Toxicity_Text_Model_Comparison.ipynb">WIT Toxicty Text Model Comparison</a>
    </td>
    <td>
    </td>

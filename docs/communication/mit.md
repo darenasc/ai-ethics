@@ -18,26 +18,15 @@ Robustness: n/a
 
 Answer with strongly agree (5), agree (4), neutral (3), disagree (2), strongly disagree (1)
 
-Feel free to add comments and justifications!
-
 1. I think that I would like to use this system frequently: strongly agree
-
 2. I found the system unnecessarily complex: disagree
-
 3. I thought the system was easy to use: strongly agree
-
 4. I think that I would need the support of a technical~~ ~~person to be able to use this system: disagree, although, could be enhanced
-
 5. I found the various functions in this system were well integrated: agree
-
 6. I thought there was too much inconsistency in this system: disagree
-
 7. I would imagine that most people would learn to use this system very quickly: agree
-
 8. I found the system very cumbersome to use: disagree
-
 9. I felt very confident using the system: agree
-
 10. I needed to learn a lot of things before I could get going with this system: disagree
 
 ### Description of the tool

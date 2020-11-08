@@ -2,20 +2,20 @@
 
 This is the code of the research [paper](http://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf) “Man is to computer programmer as woman is to homemaker” which was one of the first papers in the space.
 
-Cons
+**Pros**
+
+- It received a generic format of word embeddings and produces a debiased version in the same format so in theory it can be used for exactly that use case relatively easily
+
+**Cons**
 
 - No setup.py or requirements.txt
 - Not actively maintained, last commit in Apr 2018
 - Binary format is not the only format used for word embeddings
 - Works on gender though it can possibly generalise
 
-Pros
-
-- It received a generic format of word embeddings and produces a debiased version in the same format so in theory it can be used for exactly that use case relatively easily
-
 Type of debias: Post hoc
 
-How to use
+## How to use
 
 You need to provide
 

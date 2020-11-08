@@ -8,29 +8,29 @@
 
 IBM launched this tool in 2018, in an effort to “break open the ‘black box’ at the heart” of AI models. It aims to simplify AI processes, including detailing how recommendations are made, bias detection, and bias mitigation to ensure that fair models are produced, in particular:
 
-1. Measure and track AI outcomes - \*\*Track performance of production AI and its impact on business goals, with actionable metrics, in a single console.
-2. Tune your AI for business - \*\*Apply business results to create a continuous feedback loop that improves and sustains AI outcomes.
-3. Govern and explain AI - \*\*Maintain regulatory compliance by tracing and explaining AI decisions across workflows, and intelligently detect and correct bias to improve outcomes.
+1. Measure and track AI outcomes - Track performance of production AI and its impact on business goals, with actionable metrics, in a single console.
+2. Tune your AI for business - Apply business results to create a continuous feedback loop that improves and sustains AI outcomes.
+3. Govern and explain AI - Maintain regulatory compliance by tracing and explaining AI decisions across workflows, and intelligently detect and correct bias to improve outcomes.
 
 **Who is the intended user?**
 
 It is intended for any model built and used on any platform. Watson OpenScale is available in[ IBM Cloud Pak™ for Data](https://www.ibm.com/products/cloud-pak-for-data) and on[ IBM Cloud™](https://cloud.ibm.com/registration?target=/catalog/services/watson-openscale)
 
-What is its scope (algorithms, data, types of challenges)?
+**What is its scope (algorithms, data, types of challenges)?**
 
 It supports regressions and clustering algorithms, and get work with binary and multiclass variables. However, there are some drawbacks such as predictions can only be applied to string or integer data types. It is noted that IBM is actively updating their software though.
 
-**Best for: **
+**Best for:**
 
 What should practitioners use this tool for? Are there any scenarios / use cases in which this tool is particularly helpful vs. useless?
 
 There is a strong emphasis on how it supports model compliance with regards to business needs and regulatory compliance. For example, IBM OpenScale supports an automated report to be generated for the model, to be submitted to regulators. Specific examples highlighted on their website include:
 
-1. **Credit risk modeling**
-2. **Explainable claims processing**
-3. **Predict CSP asset failures**
+1. Credit risk modeling
+2. Explainable claims processing
+3. Predict CSP asset failures
 
-**Pros & cons**
+## Pros & cons
 
 **What are the benefits of this tool?**
 

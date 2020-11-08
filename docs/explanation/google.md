@@ -25,8 +25,8 @@ What is its purpose?
 
 Google is aiming to make explaining models a natural endpoint of any model deployment. So when a prediction is inferred, the explanation is automatically returned. This includes state of the art XAI frameworks such as SHAP and Integrated Gradient methods. In addition, Google’s There are two options for how a model can be created with the platform:
 
-    *   AutoML - you give Google tabular data and it will choose the machine learning model and hyperparameters based on a performance metric
-    *   Explainable AI Platform - create your own tensorflow model
+- AutoML - you give Google tabular data and it will choose the machine learning model and hyperparameters based on a performance metric
+- Explainable AI Platform - create your own tensorflow model
 
 For both of these methods, Google will choose the appropriate XAI framework that is used, so the user is abstracted from which XAI to use and which parameters to apply. The purpose of the platform is therefore not just for XAI, but to create a scalable and production-ready end-to-end machine learning pipeline from tagging, to model building, deployment, inference, and evaluation.
 

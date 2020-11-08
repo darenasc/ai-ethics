@@ -1,4 +1,4 @@
-# [Seldion.io Alibi]
+# Seldion.io Alibi
 
 **Description of the tool**
 
@@ -38,6 +38,6 @@ All purpose framework for handling explanations, and model monitoring. It works 
 
 The documentation is very comprehensive, including code for many many practical examples:
 
-    *   different approaches
-    *   different tasks
-    *   in different contexts (different datasets)
+- different approaches
+- different tasks
+- in different contexts (different datasets)

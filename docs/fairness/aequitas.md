@@ -5,7 +5,6 @@
 _Technical Implementation_
 
 Useful: 3/5
-
 Comprehensive: 3/5
 
 Technical scalability: 3/5
@@ -20,9 +19,7 @@ Robustness: 3/5
 
 _User-friendliness (system usability scale)_
 
-Answer with strongly agree (5), agree (4), neutral (3), disagree (2), strongly disagree (1)
-
-Feel free to add comments and justifications!
+Strongly agree (5), agree (4), neutral (3), disagree (2), strongly disagree (1)
 
 I think that I would like to use this system frequently: 4
 
@@ -48,18 +45,15 @@ I needed to learn a lot of things before I could get going with this system: 2
 
 Python package and web interface for quantifying bias in a dataset or machine learning system and identifying which groups are at risk in the system. Can generate a detailed audit report highlighting areas of concern.
 
-**Best for: **
+**Best for:**
 
 Quick and easy assessment of fairness in dataset or model predictions. Can quickly generate plots for measuring fairness between groups.
 
 ## Pros & cons
 
 - Easy to set up and use
-
-- Good demonstration notebook[ https://github.com/dssg/aequitas/blob/master/docs/source/examples/compas_demo.ipynb](https://github.com/dssg/aequitas/blob/master/docs/source/examples/compas_demo.ipynb)
-
+- [Good demonstration notebook](https://github.com/dssg/aequitas/blob/master/docs/source/examples/compas_demo.ipynb)
 - Web demo for non technical audience
-
 - Web interface for ease of use with custom dataset
 
 - Comprehensive Documentation[ https://dssg.github.io/aequitas/](https://dssg.github.io/aequitas/)
@@ -82,5 +76,3 @@ IMAGE NEEDED
 IMAGE NEEDED
 
 ![alt_text](_media/image14.png "image_tooltip")
-
-##

@@ -45,7 +45,7 @@ This particular repository is an example of h2o’s OS offering, that focuses on
 
 - Decision Trees, Lime, Loco, XGBoost, PDP Ice, Sensitivity Analysis
 
-**Best for: **
+**Best for:**
 
 **What should practitioners use this tool for? **
 
@@ -56,7 +56,7 @@ This particular repository is an example of h2o’s OS offering, that focuses on
 - Machine learnings models that are not included. This cannot be used as a replacement for other more thorough ML libraries such as Tensorflow, SciKit Learn.
 - The set appears to not be able to use it in productioni-zed machine learning. It gives no direction on the data set volume and velocity, links to deployment cases or otherwise.
 
-**Pros & cons**
+## Pros & cons
 
 **What are the benefits of this tool?**
 
@@ -73,20 +73,12 @@ E.g. difficult to integrate or customize
 
 **Case study demo with screenshots**
 
-Image 1. Shows Jupyter notebook for Sensitivity Analysis
-
-Image 2. Shows Jupyter notebook for Partial Dependency and ICE plot
-
-Image 3. Shows h2o site and mission statement.
+![Shows Jupyter notebook for Sensitivity Analysis](_media/image22.png "image_tooltip")
 
 IMAGE NEEDED
 
-![alt_text](_media/image22.png "image_tooltip")
+![Shows Jupyter notebook for Partial Dependency and ICE plot](_media/image23.png "image_tooltip")
 
 IMAGE NEEDED
 
-![alt_text](_media/image23.png "image_tooltip")
-
-IMAGE NEEDED
-
-![alt_text](_media/image24.png "image_tooltip")
+![Shows h2o site and mission statement.](_media/image24.png "image_tooltip")
