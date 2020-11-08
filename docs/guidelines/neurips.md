@@ -83,4 +83,5 @@ _E.g. difficult to integrate or customize_
 ### Case study demo with screenshots
 
 The 'Impact Stack':
+
 ![The Impact Stack](../_media/image33.png)
